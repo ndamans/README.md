@@ -12,3 +12,6 @@ dan juga langkah² nya.
 
 Harapan pada mata kuliah: saya berhrap untuk memahami lebih dlama lenggunaan git dan github guna 
 memahami pengembangan software dan klaborasi di dalam sebuah proyek otu.
+
+
+" senin, 16 maret 2026
